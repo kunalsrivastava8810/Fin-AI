@@ -179,7 +179,7 @@ If you found this project useful:
 
 🍴 Fork it
 
-📢 Share it with others
+📢 Share it with others!
 
 ---
 
