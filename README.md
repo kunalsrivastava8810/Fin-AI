@@ -188,5 +188,3 @@ Testing Pull Shark PR #1
 <p align="center">
   <b>Built with ❤️ and AI by Kunal Srivastava</b>
 </p>
-
-Pair Extraordinaire Badge Test
